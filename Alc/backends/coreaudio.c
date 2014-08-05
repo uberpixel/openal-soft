@@ -28,6 +28,8 @@
 #include "alMain.h"
 #include "alu.h"
 
+typedef unsigned int qos_class_t;
+
 #include <CoreServices/CoreServices.h>
 #include <unistd.h>
 #include <AudioUnit/AudioUnit.h>
